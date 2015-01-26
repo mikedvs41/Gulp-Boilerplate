@@ -1,0 +1,19 @@
+{
+  "name": "Gulp-Boilerplate",
+  "version": "1.0.0",
+  "description": "A Gulp Bolierplate to use as start off point for templated projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mikedvs41/Gulp-Boilerplate.git"
+  },
+  "author": "Michael Maliniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikedvs41/Gulp-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/mikedvs41/Gulp-Boilerplate"
+}
