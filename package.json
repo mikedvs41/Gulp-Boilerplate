@@ -18,6 +18,10 @@
   "homepage": "https://github.com/mikedvs41/Gulp-Boilerplate",
   "devDependencies": {
     "gulp": "^3.8.10",
-    "gulp-util": "^3.0.2"
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.4.3",
+    "gulp-util": "^3.0.2",
+    "jquery": "^2.1.3",
+    "mustache": "^1.0.0"
   }
 }
